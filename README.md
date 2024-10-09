@@ -13,7 +13,7 @@ CompassCar é um sistema de locação de carros desenvolvido com Node.js e MySQL
 - [Endpoints da API](#endpoints-da-api)
 - [Validações e Tratamento de Erros](#validações-e-tratamento-de-erros)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuindo](#contribuindo)
+
 
 
 ## Sobre o Projeto
